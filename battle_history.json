@@ -1,0 +1,3800 @@
+[
+  {
+    "battle_id": 1180068492,
+    "time": "2025-03-26T22:27:55.394553+00:00",
+    "players": 57,
+    "kills": 36,
+    "deaths": 6,
+    "fame": 91818726,
+    "details": {
+      "id": 1180068492,
+      "time": "2025-03-26T22:27:55.394553+00:00",
+      "guilds": {
+        "Outlimits": {
+          "players": [
+            {
+              "name": "Mike95AC",
+              "kills": 0,
+              "deaths": 1,
+              "fame": 101185
+            },
+            {
+              "name": "Dusktain",
+              "kills": 0,
+              "deaths": 1,
+              "fame": 103273
+            },
+            {
+              "name": "Koreky",
+              "kills": 0,
+              "deaths": 1,
+              "fame": 265313
+            },
+            {
+              "name": "kironight",
+              "kills": 0,
+              "deaths": 1,
+              "fame": 227350
+            },
+            {
+              "name": "PlzNoStress",
+              "kills": 0,
+              "deaths": 1,
+              "fame": 25935
+            },
+            {
+              "name": "B4ndyI",
+              "kills": 0,
+              "deaths": 1,
+              "fame": 184117
+            },
+            {
+              "name": "Fenixdc",
+              "kills": 0,
+              "deaths": 1,
+              "fame": 106485
+            },
+            {
+              "name": "TheDestroyer300",
+              "kills": 1,
+              "deaths": 1,
+              "fame": 208488
+            },
+            {
+              "name": "ThePunisherOfi",
+              "kills": 0,
+              "deaths": 0,
+              "fame": 184117
+            },
+            {
+              "name": "BoletaNvg",
+              "kills": 0,
+              "deaths": 0,
+              "fame": 106485
+            },
+            {
+              "name": "20inti17",
+              "kills": 0,
+              "deaths": 0,
+              "fame": 288132
+            },
+            {
+              "name": "Dinamiita66",
+              "kills": 0,
+              "deaths": 1,
+              "fame": 265313
+            },
+            {
+              "name": "Roly2025Ss",
+              "kills": 0,
+              "deaths": 1,
+              "fame": 0
+            },
+            {
+              "name": "Lulit4",
+              "kills": 0,
+              "deaths": 1,
+              "fame": 377863
+            },
+            {
+              "name": "Enaidor",
+              "kills": 0,
+              "deaths": 1,
+              "fame": 177667
+            },
+            {
+              "name": "Bakura010",
+              "kills": 0,
+              "deaths": 1,
+              "fame": 77100
+            },
+            {
+              "name": "Leamcys",
+              "kills": 0,
+              "deaths": 0,
+              "fame": 184117
+            },
+            {
+              "name": "KinGupphy",
+              "kills": 1,
+              "deaths": 0,
+              "fame": 345099
+            },
+            {
+              "name": "Skybreach",
+              "kills": 0,
+              "deaths": 0,
+              "fame": 372770
+            },
+            {
+              "name": "GaryEdith",
+              "kills": 0,
+              "deaths": 1,
+              "fame": 177667
+            },
+            {
+              "name": "cocytuk",
+              "kills": 2,
+              "deaths": 1,
+              "fame": 106485
+            },
+            {
+              "name": "SheinKitty",
+              "kills": 1,
+              "deaths": 1,
+              "fame": 76686
+            },
+            {
+              "name": "Sheik4n",
+              "kills": 0,
+              "deaths": 0,
+              "fame": 98099
+            },
+            {
+              "name": "kroont",
+              "kills": 0,
+              "deaths": 2,
+              "fame": 56766
+            },
+            {
+              "name": "Zeitlich",
+              "kills": 0,
+              "deaths": 0,
+              "fame": 399727
+            },
+            {
+              "name": "Wayvrade",
+              "kills": 0,
+              "deaths": 1,
+              "fame": 98099
+            },
+            {
+              "name": "Predominio",
+              "kills": 0,
+              "deaths": 1,
+              "fame": 40324
+            },
+            {
+              "name": "MooLunar",
+              "kills": 1,
+              "deaths": 0,
+              "fame": 184117
+            },
+            {
+              "name": "chicodograuuuuu",
+              "kills": 0,
+              "deaths": 1,
+              "fame": 0
+            },
+            {
+              "name": "akileskaygo",
+              "kills": 0,
+              "deaths": 0,
+              "fame": 394608
+            },
+            {
+              "name": "pardoja",
+              "kills": 1,
+              "deaths": 1,
+              "fame": 261229
+            },
+            {
+              "name": "DavidTineo12",
+              "kills": 0,
+              "deaths": 0,
+              "fame": 208293
+            },
+            {
+              "name": "MeuNomeeEri",
+              "kills": 0,
+              "deaths": 0,
+              "fame": 413685
+            },
+            {
+              "name": "olivmusic",
+              "kills": 1,
+              "deaths": 2,
+              "fame": 41142
+            },
+            {
+              "name": "MRpiola",
+              "kills": 0,
+              "deaths": 2,
+              "fame": 29799
+            },
+            {
+              "name": "TinkyWinnky",
+              "kills": 2,
+              "deaths": 1,
+              "fame": 123622
+            },
+            {
+              "name": "Goujy",
+              "kills": 1,
+              "deaths": 1,
+              "fame": 98099
+            },
+            {
+              "name": "infiriax",
+              "kills": 0,
+              "deaths": 0,
+              "fame": 251224
+            },
+            {
+              "name": "Arynnx",
+              "kills": 0,
+              "deaths": 2,
+              "fame": 104782
+            },
+            {
+              "name": "SirQarol",
+              "kills": 0,
+              "deaths": 1,
+              "fame": 77669
+            },
+            {
+              "name": "Realmasnaqui",
+              "kills": 3,
+              "deaths": 1,
+              "fame": 175184
+            },
+            {
+              "name": "Fantasma123",
+              "kills": 0,
+              "deaths": 1,
+              "fame": 142095
+            },
+            {
+              "name": "NosoytuCesitar",
+              "kills": 0,
+              "deaths": 1,
+              "fame": 77100
+            },
+            {
+              "name": "Misericordia2707",
+              "kills": 1,
+              "deaths": 0,
+              "fame": 98099
+            },
+            {
+              "name": "thericklord",
+              "kills": 2,
+              "deaths": 1,
+              "fame": 168182
+            },
+            {
+              "name": "EverRealG",
+              "kills": 0,
+              "deaths": 2,
+              "fame": 136933
+            },
+            {
+              "name": "ArthurV03",
+              "kills": 0,
+              "deaths": 0,
+              "fame": 393336
+            },
+            {
+              "name": "Ricardo152",
+              "kills": 0,
+              "deaths": 1,
+              "fame": 155301
+            },
+            {
+              "name": "yefer02",
+              "kills": 0,
+              "deaths": 1,
+              "fame": 177667
+            },
+            {
+              "name": "choowder",
+              "kills": 0,
+              "deaths": 0,
+              "fame": 229951
+            },
+            {
+              "name": "jajajjajajajhaha",
+              "kills": 0,
+              "deaths": 0,
+              "fame": 377863
+            },
+            {
+              "name": "XeltucuX",
+              "kills": 1,
+              "deaths": 1,
+              "fame": 390176
+            },
+            {
+              "name": "Silasolddog",
+              "kills": 0,
+              "deaths": 1,
+              "fame": 219424
+            },
+            {
+              "name": "damantio",
+              "kills": 0,
+              "deaths": 1,
+              "fame": 77100
+            },
+            {
+              "name": "SimonGhost1718",
+              "kills": 0,
+              "deaths": 1,
+              "fame": 77100
+            },
+            {
+              "name": "Brocole",
+              "kills": 2,
+              "deaths": 0,
+              "fame": 399727
+            },
+            {
+              "name": "LuanFM",
+              "kills": 0,
+              "deaths": 0,
+              "fame": 40324
+            },
+            {
+              "name": "17Soske",
+              "kills": 1,
+              "deaths": 0,
+              "fame": 320874
+            },
+            {
+              "name": "JohanP49",
+              "kills": 0,
+              "deaths": 1,
+              "fame": 83765
+            },
+            {
+              "name": "Revivir",
+              "kills": 0,
+              "deaths": 0,
+              "fame": 184117
+            },
+            {
+              "name": "derkker86",
+              "kills": 0,
+              "deaths": 1,
+              "fame": 204529
+            },
+            {
+              "name": "Roloo06",
+              "kills": 0,
+              "deaths": 2,
+              "fame": 51916
+            },
+            {
+              "name": "Edaar",
+              "kills": 3,
+              "deaths": 0,
+              "fame": 393336
+            },
+            {
+              "name": "tyranitarr",
+              "kills": 0,
+              "deaths": 1,
+              "fame": 148076
+            },
+            {
+              "name": "zNahirCL",
+              "kills": 1,
+              "deaths": 1,
+              "fame": 219424
+            },
+            {
+              "name": "alejandro8916",
+              "kills": 0,
+              "deaths": 0,
+              "fame": 40324
+            },
+            {
+              "name": "FERALCACHOFA",
+              "kills": 1,
+              "deaths": 0,
+              "fame": 310412
+            },
+            {
+              "name": "AnGeL322",
+              "kills": 0,
+              "deaths": 0,
+              "fame": 336948
+            },
+            {
+              "name": "ZH1BA",
+              "kills": 0,
+              "deaths": 1,
+              "fame": 314398
+            },
+            {
+              "name": "ScrxmLxrd",
+              "kills": 0,
+              "deaths": 1,
+              "fame": 40324
+            },
+            {
+              "name": "ragnaroson",
+              "kills": 0,
+              "deaths": 1,
+              "fame": 352421
+            },
+            {
+              "name": "SrMmuerte",
+              "kills": 1,
+              "deaths": 0,
+              "fame": 368689
+            },
+            {
+              "name": "nancito88",
+              "kills": 0,
+              "deaths": 0,
+              "fame": 184117
+            },
+            {
+              "name": "Espirilulina",
+              "kills": 0,
+              "deaths": 1,
+              "fame": 106485
+            },
+            {
+              "name": "Necroprace",
+              "kills": 1,
+              "deaths": 1,
+              "fame": 148076
+            },
+            {
+              "name": "eltouzery",
+              "kills": 0,
+              "deaths": 1,
+              "fame": 103273
+            },
+            {
+              "name": "Stayking",
+              "kills": 3,
+              "deaths": 1,
+              "fame": 297410
+            },
+            {
+              "name": "Mxiperuano",
+              "kills": 1,
+              "deaths": 0,
+              "fame": 98099
+            },
+            {
+              "name": "iEmnlXz",
+              "kills": 0,
+              "deaths": 0,
+              "fame": 169075
+            },
+            {
+              "name": "Sanem21",
+              "kills": 0,
+              "deaths": 0,
+              "fame": 413685
+            },
+            {
+              "name": "zepolon",
+              "kills": 0,
+              "deaths": 1,
+              "fame": 76686
+            },
+            {
+              "name": "Monchoplay",
+              "kills": 1,
+              "deaths": 1,
+              "fame": 77669
+            },
+            {
+              "name": "calismar",
+              "kills": 0,
+              "deaths": 0,
+              "fame": 98099
+            },
+            {
+              "name": "eisha1509",
+              "kills": 1,
+              "deaths": 0,
+              "fame": 435299
+            },
+            {
+              "name": "VittinhoCRF",
+              "kills": 0,
+              "deaths": 1,
+              "fame": 281673
+            },
+            {
+              "name": "JC667",
+              "kills": 0,
+              "deaths": 1,
+              "fame": 123622
+            },
+            {
+              "name": "Temoczin",
+              "kills": 0,
+              "deaths": 2,
+              "fame": 76686
+            },
+            {
+              "name": "CorvoFantama",
+              "kills": 0,
+              "deaths": 2,
+              "fame": 67451
+            },
+            {
+              "name": "sdakef",
+              "kills": 0,
+              "deaths": 1,
+              "fame": 142095
+            },
+            {
+              "name": "M1chaelGc",
+              "kills": 0,
+              "deaths": 2,
+              "fame": 40324
+            },
+            {
+              "name": "DonTrapoV",
+              "kills": 1,
+              "deaths": 0,
+              "fame": 370835
+            },
+            {
+              "name": "Arikhel",
+              "kills": 0,
+              "deaths": 1,
+              "fame": 169075
+            },
+            {
+              "name": "Stild",
+              "kills": 0,
+              "deaths": 1,
+              "fame": 142095
+            },
+            {
+              "name": "Razeu",
+              "kills": 0,
+              "deaths": 1,
+              "fame": 41142
+            },
+            {
+              "name": "SonGBirDD",
+              "kills": 0,
+              "deaths": 1,
+              "fame": 98099
+            },
+            {
+              "name": "LadyGiuliana",
+              "kills": 0,
+              "deaths": 1,
+              "fame": 77100
+            },
+            {
+              "name": "HeitorDaLenha",
+              "kills": 2,
+              "deaths": 1,
+              "fame": 285568
+            },
+            {
+              "name": "xCrot",
+              "kills": 0,
+              "deaths": 1,
+              "fame": 87800
+            },
+            {
+              "name": "BICHOTES",
+              "kills": 2,
+              "deaths": 1,
+              "fame": 164427
+            },
+            {
+              "name": "SirLancelod",
+              "kills": 5,
+              "deaths": 1,
+              "fame": 314398
+            },
+            {
+              "name": "pantro16",
+              "kills": 0,
+              "deaths": 0,
+              "fame": 322583
+            },
+            {
+              "name": "G0ldSilver",
+              "kills": 1,
+              "deaths": 1,
+              "fame": 251575
+            },
+            {
+              "name": "TAPOLEN",
+              "kills": 0,
+              "deaths": 0,
+              "fame": 98099
+            },
+            {
+              "name": "lValeria",
+              "kills": 0,
+              "deaths": 1,
+              "fame": 164537
+            },
+            {
+              "name": "Mariavmd",
+              "kills": 0,
+              "deaths": 2,
+              "fame": 106485
+            },
+            {
+              "name": "DRAK1236",
+              "kills": 0,
+              "deaths": 1,
+              "fame": 106485
+            },
+            {
+              "name": "JohanHansHegg",
+              "kills": 0,
+              "deaths": 0,
+              "fame": 127858
+            },
+            {
+              "name": "mistercorn",
+              "kills": 1,
+              "deaths": 1,
+              "fame": 128715
+            }
+          ],
+          "total_kills": 46,
+          "total_deaths": 82,
+          "total_fame": 19544746
+        },
+        "Upside": {
+          "players": [
+            {
+              "name": "Thunche",
+              "kills": 0,
+              "deaths": 1,
+              "fame": 12622
+            },
+            {
+              "name": "Velez9315",
+              "kills": 0,
+              "deaths": 0,
+              "fame": 39697
+            },
+            {
+              "name": "JonasPedreiro",
+              "kills": 0,
+              "deaths": 0,
+              "fame": 499644
+            },
+            {
+              "name": "Acosta008",
+              "kills": 0,
+              "deaths": 1,
+              "fame": 514348
+            },
+            {
+              "name": "CChannel",
+              "kills": 0,
+              "deaths": 1,
+              "fame": 237717
+            },
+            {
+              "name": "MarleyitsBack",
+              "kills": 0,
+              "deaths": 1,
+              "fame": 39697
+            },
+            {
+              "name": "juanchelas",
+              "kills": 0,
+              "deaths": 1,
+              "fame": 221856
+            },
+            {
+              "name": "WolfSeb4",
+              "kills": 0,
+              "deaths": 1,
+              "fame": 12622
+            },
+            {
+              "name": "NexZii",
+              "kills": 0,
+              "deaths": 1,
+              "fame": 268288
+            },
+            {
+              "name": "Froztymon",
+              "kills": 0,
+              "deaths": 0,
+              "fame": 39697
+            },
+            {
+              "name": "GOODPRO",
+              "kills": 0,
+              "deaths": 1,
+              "fame": 255666
+            },
+            {
+              "name": "DonKion",
+              "kills": 0,
+              "deaths": 0,
+              "fame": 249989
+            },
+            {
+              "name": "BrenShield",
+              "kills": 1,
+              "deaths": 1,
+              "fame": 249989
+            },
+            {
+              "name": "dusioss",
+              "kills": 1,
+              "deaths": 1,
+              "fame": 250339
+            },
+            {
+              "name": "M4tT4r",
+              "kills": 0,
+              "deaths": 0,
+              "fame": 249989
+            },
+            {
+              "name": "MG09",
+              "kills": 0,
+              "deaths": 0,
+              "fame": 30571
+            },
+            {
+              "name": "Grauloktwitch",
+              "kills": 0,
+              "deaths": 0,
+              "fame": 255666
+            },
+            {
+              "name": "SkunkArt",
+              "kills": 0,
+              "deaths": 1,
+              "fame": 38443
+            },
+            {
+              "name": "Naimi26",
+              "kills": 0,
+              "deaths": 1,
+              "fame": 249989
+            },
+            {
+              "name": "zAk1lez",
+              "kills": 0,
+              "deaths": 1,
+              "fame": 39697
+            },
+            {
+              "name": "M3RL3N",
+              "kills": 0,
+              "deaths": 0,
+              "fame": 714429
+            },
+            {
+              "name": "RIVALDO15",
+              "kills": 0,
+              "deaths": 1,
+              "fame": 39697
+            },
+            {
+              "name": "Maromath",
+              "kills": 4,
+              "deaths": 1,
+              "fame": 714429
+            },
+            {
+              "name": "MsFerr",
+              "kills": 0,
+              "deaths": 1,
+              "fame": 39697
+            },
+            {
+              "name": "Kekkai666",
+              "kills": 0,
+              "deaths": 1,
+              "fame": 221856
+            },
+            {
+              "name": "ThunderHorm",
+              "kills": 0,
+              "deaths": 1,
+              "fame": 19596
+            },
+            {
+              "name": "ZAFIEL",
+              "kills": 0,
+              "deaths": 0,
+              "fame": 499644
+            },
+            {
+              "name": "LenguaCortada",
+              "kills": 0,
+              "deaths": 1,
+              "fame": 268288
+            },
+            {
+              "name": "KURUMA01",
+              "kills": 0,
+              "deaths": 1,
+              "fame": 0
+            },
+            {
+              "name": "ShizueG",
+              "kills": 0,
+              "deaths": 1,
+              "fame": 249989
+            },
+            {
+              "name": "Crissdk",
+              "kills": 0,
+              "deaths": 1,
+              "fame": 39697
+            },
+            {
+              "name": "7LESTAD7",
+              "kills": 0,
+              "deaths": 1,
+              "fame": 249989
+            },
+            {
+              "name": "EscanorVll",
+              "kills": 0,
+              "deaths": 1,
+              "fame": 39697
+            },
+            {
+              "name": "iamjg",
+              "kills": 0,
+              "deaths": 1,
+              "fame": 249989
+            },
+            {
+              "name": "EstebanUWU",
+              "kills": 2,
+              "deaths": 1,
+              "fame": 39697
+            },
+            {
+              "name": "Zekesito",
+              "kills": 0,
+              "deaths": 1,
+              "fame": 0
+            },
+            {
+              "name": "geovanalive",
+              "kills": 0,
+              "deaths": 1,
+              "fame": 323250
+            },
+            {
+              "name": "sSsedzZz",
+              "kills": 0,
+              "deaths": 1,
+              "fame": 19596
+            },
+            {
+              "name": "Myth0",
+              "kills": 2,
+              "deaths": 1,
+              "fame": 514348
+            },
+            {
+              "name": "Beatzway",
+              "kills": 0,
+              "deaths": 0,
+              "fame": 714429
+            },
+            {
+              "name": "putita1",
+              "kills": 0,
+              "deaths": 1,
+              "fame": 249989
+            },
+            {
+              "name": "Lccot07",
+              "kills": 7,
+              "deaths": 1,
+              "fame": 268288
+            },
+            {
+              "name": "Panteriita",
+              "kills": 1,
+              "deaths": 1,
+              "fame": 514348
+            },
+            {
+              "name": "Nous73",
+              "kills": 0,
+              "deaths": 1,
+              "fame": 268288
+            },
+            {
+              "name": "WTFAH",
+              "kills": 0,
+              "deaths": 1,
+              "fame": 12622
+            },
+            {
+              "name": "Hikusty",
+              "kills": 0,
+              "deaths": 0,
+              "fame": 714429
+            },
+            {
+              "name": "XxHunterRoxX",
+              "kills": 0,
+              "deaths": 1,
+              "fame": 40535
+            },
+            {
+              "name": "Kuuk0z",
+              "kills": 0,
+              "deaths": 0,
+              "fame": 250339
+            },
+            {
+              "name": "bemolina",
+              "kills": 9,
+              "deaths": 1,
+              "fame": 714429
+            },
+            {
+              "name": "excatplox",
+              "kills": 0,
+              "deaths": 1,
+              "fame": 19596
+            },
+            {
+              "name": "YADERCJ",
+              "kills": 0,
+              "deaths": 1,
+              "fame": 249989
+            },
+            {
+              "name": "JLuisRR",
+              "kills": 0,
+              "deaths": 1,
+              "fame": 268288
+            },
+            {
+              "name": "rlchie",
+              "kills": 0,
+              "deaths": 1,
+              "fame": 249989
+            },
+            {
+              "name": "breakz1",
+              "kills": 0,
+              "deaths": 1,
+              "fame": 12622
+            },
+            {
+              "name": "NuvBlack",
+              "kills": 2,
+              "deaths": 1,
+              "fame": 249989
+            },
+            {
+              "name": "Exooticz",
+              "kills": 0,
+              "deaths": 1,
+              "fame": 250339
+            },
+            {
+              "name": "CochiseAR",
+              "kills": 0,
+              "deaths": 1,
+              "fame": 249989
+            },
+            {
+              "name": "waeada",
+              "kills": 0,
+              "deaths": 1,
+              "fame": 514348
+            },
+            {
+              "name": "CAMILOETE",
+              "kills": 0,
+              "deaths": 0,
+              "fame": 673384
+            },
+            {
+              "name": "Hanckz",
+              "kills": 0,
+              "deaths": 1,
+              "fame": 268288
+            },
+            {
+              "name": "CapuccinoMufasa",
+              "kills": 0,
+              "deaths": 1,
+              "fame": 39697
+            },
+            {
+              "name": "FcknEliza",
+              "kills": 0,
+              "deaths": 1,
+              "fame": 12622
+            },
+            {
+              "name": "kurosasory23sv",
+              "kills": 0,
+              "deaths": 1,
+              "fame": 249989
+            },
+            {
+              "name": "llDEMONSxx",
+              "kills": 0,
+              "deaths": 1,
+              "fame": 19596
+            },
+            {
+              "name": "candyta",
+              "kills": 1,
+              "deaths": 1,
+              "fame": 514348
+            },
+            {
+              "name": "Tercaso",
+              "kills": 0,
+              "deaths": 0,
+              "fame": 268288
+            },
+            {
+              "name": "Lancelot95",
+              "kills": 0,
+              "deaths": 1,
+              "fame": 39697
+            },
+            {
+              "name": "hiljohnwick",
+              "kills": 0,
+              "deaths": 1,
+              "fame": 514348
+            },
+            {
+              "name": "DEMBER1973",
+              "kills": 1,
+              "deaths": 0,
+              "fame": 39697
+            },
+            {
+              "name": "MikasaAnck",
+              "kills": 0,
+              "deaths": 1,
+              "fame": 405883
+            },
+            {
+              "name": "leafueoflegends2",
+              "kills": 0,
+              "deaths": 1,
+              "fame": 299563
+            },
+            {
+              "name": "Quinquee",
+              "kills": 0,
+              "deaths": 1,
+              "fame": 514348
+            },
+            {
+              "name": "yawarzuu",
+              "kills": 0,
+              "deaths": 1,
+              "fame": 19596
+            },
+            {
+              "name": "FRANKO07",
+              "kills": 0,
+              "deaths": 1,
+              "fame": 249989
+            },
+            {
+              "name": "DanielRick",
+              "kills": 0,
+              "deaths": 1,
+              "fame": 0
+            }
+          ],
+          "total_kills": 31,
+          "total_deaths": 60,
+          "total_fame": 17942592
+        },
+        "A ORIGEM": {
+          "players": [
+            {
+              "name": "XeraCrazy",
+              "kills": 1,
+              "deaths": 0,
+              "fame": 106085
+            },
+            {
+              "name": "JobisonSTX157",
+              "kills": 1,
+              "deaths": 0,
+              "fame": 270444
+            },
+            {
+              "name": "Sabotagemxit",
+              "kills": 0,
+              "deaths": 0,
+              "fame": 78441
+            },
+            {
+              "name": "PesoMorto",
+              "kills": 0,
+              "deaths": 0,
+              "fame": 106085
+            },
+            {
+              "name": "SirOmeega",
+              "kills": 0,
+              "deaths": 0,
+              "fame": 106085
+            },
+            {
+              "name": "UNISES",
+              "kills": 1,
+              "deaths": 0,
+              "fame": 106085
+            },
+            {
+              "name": "1BAUsemVALOR",
+              "kills": 1,
+              "deaths": 0,
+              "fame": 69973
+            },
+            {
+              "name": "ThzinNo",
+              "kills": 0,
+              "deaths": 0,
+              "fame": 88352
+            },
+            {
+              "name": "Escano0o0or",
+              "kills": 0,
+              "deaths": 0,
+              "fame": 69973
+            },
+            {
+              "name": "Atimega",
+              "kills": 0,
+              "deaths": 0,
+              "fame": 106085
+            },
+            {
+              "name": "RlkDoJOTA",
+              "kills": 0,
+              "deaths": 0,
+              "fame": 78441
+            },
+            {
+              "name": "FOULKESx",
+              "kills": 2,
+              "deaths": 0,
+              "fame": 106085
+            },
+            {
+              "name": "MMarmay",
+              "kills": 0,
+              "deaths": 0,
+              "fame": 106085
+            },
+            {
+              "name": "Amiinoo",
+              "kills": 0,
+              "deaths": 0,
+              "fame": 106085
+            },
+            {
+              "name": "Z1K4V1RU5",
+              "kills": 0,
+              "deaths": 0,
+              "fame": 106085
+            },
+            {
+              "name": "CamperBR",
+              "kills": 0,
+              "deaths": 0,
+              "fame": 36488
+            },
+            {
+              "name": "Ramonpanttera",
+              "kills": 0,
+              "deaths": 0,
+              "fame": 24972
+            },
+            {
+              "name": "varsuk",
+              "kills": 0,
+              "deaths": 0,
+              "fame": 106085
+            },
+            {
+              "name": "Henriartur",
+              "kills": 0,
+              "deaths": 0,
+              "fame": 270444
+            },
+            {
+              "name": "senhorafelps",
+              "kills": 0,
+              "deaths": 0,
+              "fame": 106085
+            },
+            {
+              "name": "happy23",
+              "kills": 0,
+              "deaths": 0,
+              "fame": 69973
+            },
+            {
+              "name": "lihauli",
+              "kills": 0,
+              "deaths": 0,
+              "fame": 106085
+            }
+          ],
+          "total_kills": 6,
+          "total_deaths": 0,
+          "total_fame": 2330521
+        },
+        "Muxolots": {
+          "players": [
+            {
+              "name": "zekej21",
+              "kills": 0,
+              "deaths": 0,
+              "fame": 37049
+            },
+            {
+              "name": "RaulSker",
+              "kills": 0,
+              "deaths": 0,
+              "fame": 398632
+            },
+            {
+              "name": "BlazterXD",
+              "kills": 0,
+              "deaths": 1,
+              "fame": 0
+            },
+            {
+              "name": "Elcomi",
+              "kills": 0,
+              "deaths": 0,
+              "fame": 37049
+            },
+            {
+              "name": "elcapo2023",
+              "kills": 0,
+              "deaths": 0,
+              "fame": 67332
+            },
+            {
+              "name": "JOEL333",
+              "kills": 0,
+              "deaths": 0,
+              "fame": 37049
+            },
+            {
+              "name": "GranFOx",
+              "kills": 0,
+              "deaths": 0,
+              "fame": 214454
+            },
+            {
+              "name": "juanyolo2",
+              "kills": 0,
+              "deaths": 0,
+              "fame": 37049
+            },
+            {
+              "name": "Sanyiek",
+              "kills": 0,
+              "deaths": 1,
+              "fame": 0
+            },
+            {
+              "name": "ExternooS",
+              "kills": 0,
+              "deaths": 0,
+              "fame": 67332
+            },
+            {
+              "name": "XavierPBR",
+              "kills": 0,
+              "deaths": 1,
+              "fame": 0
+            },
+            {
+              "name": "Schrank",
+              "kills": 1,
+              "deaths": 0,
+              "fame": 398632
+            },
+            {
+              "name": "Stypheen03",
+              "kills": 0,
+              "deaths": 1,
+              "fame": 0
+            },
+            {
+              "name": "Verdant94",
+              "kills": 0,
+              "deaths": 0,
+              "fame": 67332
+            },
+            {
+              "name": "Negroky",
+              "kills": 1,
+              "deaths": 0,
+              "fame": 451169
+            },
+            {
+              "name": "Rykiiry",
+              "kills": 0,
+              "deaths": 1,
+              "fame": 0
+            },
+            {
+              "name": "Mordekkai",
+              "kills": 0,
+              "deaths": 0,
+              "fame": 37049
+            },
+            {
+              "name": "DaxusMX",
+              "kills": 0,
+              "deaths": 0,
+              "fame": 398632
+            },
+            {
+              "name": "Longinus2468",
+              "kills": 0,
+              "deaths": 1,
+              "fame": 0
+            },
+            {
+              "name": "DELTAF0RES",
+              "kills": 0,
+              "deaths": 0,
+              "fame": 37049
+            },
+            {
+              "name": "auroralov3r",
+              "kills": 0,
+              "deaths": 0,
+              "fame": 37049
+            },
+            {
+              "name": "xenala",
+              "kills": 0,
+              "deaths": 1,
+              "fame": 0
+            },
+            {
+              "name": "Bhoreldegenerado",
+              "kills": 0,
+              "deaths": 0,
+              "fame": 67332
+            },
+            {
+              "name": "Fasze",
+              "kills": 0,
+              "deaths": 0,
+              "fame": 37049
+            },
+            {
+              "name": "zNukxZ",
+              "kills": 1,
+              "deaths": 0,
+              "fame": 447119
+            },
+            {
+              "name": "magaszo",
+              "kills": 1,
+              "deaths": 0,
+              "fame": 67332
+            },
+            {
+              "name": "RexUmbra122g",
+              "kills": 1,
+              "deaths": 0,
+              "fame": 214454
+            },
+            {
+              "name": "BONLUINO22",
+              "kills": 0,
+              "deaths": 0,
+              "fame": 37049
+            },
+            {
+              "name": "ikerzx",
+              "kills": 0,
+              "deaths": 0,
+              "fame": 214454
+            },
+            {
+              "name": "Solanator",
+              "kills": 0,
+              "deaths": 0,
+              "fame": 447119
+            },
+            {
+              "name": "Darcamps",
+              "kills": 1,
+              "deaths": 0,
+              "fame": 398632
+            },
+            {
+              "name": "AndrewBelle",
+              "kills": 0,
+              "deaths": 0,
+              "fame": 37049
+            },
+            {
+              "name": "YoSoy1990",
+              "kills": 0,
+              "deaths": 0,
+              "fame": 67332
+            },
+            {
+              "name": "trafy2",
+              "kills": 0,
+              "deaths": 0,
+              "fame": 67332
+            },
+            {
+              "name": "Merary",
+              "kills": 0,
+              "deaths": 0,
+              "fame": 37049
+            }
+          ],
+          "total_kills": 6,
+          "total_deaths": 7,
+          "total_fame": 4462160
+        },
+        "We Profit": {
+          "players": [
+            {
+              "name": "lypeza",
+              "kills": 1,
+              "deaths": 0,
+              "fame": 266435
+            },
+            {
+              "name": "Muphasa",
+              "kills": 0,
+              "deaths": 0,
+              "fame": 266435
+            },
+            {
+              "name": "MaommehBR",
+              "kills": 1,
+              "deaths": 0,
+              "fame": 266435
+            },
+            {
+              "name": "MARCOSHARD3",
+              "kills": 1,
+              "deaths": 0,
+              "fame": 446693
+            },
+            {
+              "name": "VampireKiller",
+              "kills": 0,
+              "deaths": 0,
+              "fame": 266435
+            },
+            {
+              "name": "Baiumm",
+              "kills": 0,
+              "deaths": 0,
+              "fame": 446693
+            },
+            {
+              "name": "Zinbak",
+              "kills": 0,
+              "deaths": 1,
+              "fame": 266435
+            },
+            {
+              "name": "OtavioW",
+              "kills": 3,
+              "deaths": 0,
+              "fame": 446693
+            },
+            {
+              "name": "ttruenoo",
+              "kills": 0,
+              "deaths": 0,
+              "fame": 87567
+            },
+            {
+              "name": "xAlegazox",
+              "kills": 4,
+              "deaths": 0,
+              "fame": 266435
+            },
+            {
+              "name": "xSTyL33",
+              "kills": 0,
+              "deaths": 0,
+              "fame": 230105
+            },
+            {
+              "name": "Juninho7l",
+              "kills": 0,
+              "deaths": 0,
+              "fame": 230105
+            },
+            {
+              "name": "ikkikuro",
+              "kills": 0,
+              "deaths": 0,
+              "fame": 446693
+            },
+            {
+              "name": "Revoltad0",
+              "kills": 0,
+              "deaths": 0,
+              "fame": 230105
+            },
+            {
+              "name": "xBull1999x",
+              "kills": 0,
+              "deaths": 0,
+              "fame": 230105
+            },
+            {
+              "name": "TomBRR",
+              "kills": 1,
+              "deaths": 0,
+              "fame": 446693
+            },
+            {
+              "name": "IvarX",
+              "kills": 4,
+              "deaths": 0,
+              "fame": 446693
+            },
+            {
+              "name": "Primao",
+              "kills": 0,
+              "deaths": 0,
+              "fame": 446693
+            },
+            {
+              "name": "lompiao",
+              "kills": 0,
+              "deaths": 0,
+              "fame": 230105
+            },
+            {
+              "name": "ProfGeografia",
+              "kills": 2,
+              "deaths": 0,
+              "fame": 446693
+            },
+            {
+              "name": "GabiiiS2",
+              "kills": 0,
+              "deaths": 0,
+              "fame": 266435
+            },
+            {
+              "name": "THEdeckster",
+              "kills": 0,
+              "deaths": 0,
+              "fame": 112087
+            },
+            {
+              "name": "ipotter147",
+              "kills": 0,
+              "deaths": 0,
+              "fame": 446693
+            },
+            {
+              "name": "HeIux",
+              "kills": 0,
+              "deaths": 0,
+              "fame": 446693
+            },
+            {
+              "name": "OhYeahXD",
+              "kills": 0,
+              "deaths": 1,
+              "fame": 266435
+            },
+            {
+              "name": "Resetsui",
+              "kills": 0,
+              "deaths": 0,
+              "fame": 230105
+            },
+            {
+              "name": "MorgsCat",
+              "kills": 0,
+              "deaths": 0,
+              "fame": 196808
+            },
+            {
+              "name": "DiiMarol4",
+              "kills": 0,
+              "deaths": 0,
+              "fame": 446693
+            },
+            {
+              "name": "Kaagamii",
+              "kills": 0,
+              "deaths": 1,
+              "fame": 0
+            },
+            {
+              "name": "FEERSHO",
+              "kills": 0,
+              "deaths": 0,
+              "fame": 230105
+            },
+            {
+              "name": "MUR4LHA",
+              "kills": 0,
+              "deaths": 1,
+              "fame": 230105
+            },
+            {
+              "name": "XxPRKxX",
+              "kills": 1,
+              "deaths": 0,
+              "fame": 446693
+            },
+            {
+              "name": "Mikaa",
+              "kills": 2,
+              "deaths": 1,
+              "fame": 230105
+            },
+            {
+              "name": "BarlockLoss",
+              "kills": 0,
+              "deaths": 0,
+              "fame": 446693
+            },
+            {
+              "name": "darkiller5925",
+              "kills": 0,
+              "deaths": 0,
+              "fame": 266435
+            },
+            {
+              "name": "Pendactor",
+              "kills": 0,
+              "deaths": 0,
+              "fame": 230105
+            },
+            {
+              "name": "GABYSBR",
+              "kills": 0,
+              "deaths": 0,
+              "fame": 230105
+            },
+            {
+              "name": "Dentuca",
+              "kills": 0,
+              "deaths": 0,
+              "fame": 266435
+            },
+            {
+              "name": "Patolinosz",
+              "kills": 7,
+              "deaths": 0,
+              "fame": 230105
+            },
+            {
+              "name": "manodubiru",
+              "kills": 2,
+              "deaths": 0,
+              "fame": 446693
+            },
+            {
+              "name": "QUAKEJHOW",
+              "kills": 0,
+              "deaths": 0,
+              "fame": 156877
+            },
+            {
+              "name": "marianya",
+              "kills": 0,
+              "deaths": 0,
+              "fame": 230105
+            },
+            {
+              "name": "xXEJOD27Xx",
+              "kills": 2,
+              "deaths": 0,
+              "fame": 266435
+            },
+            {
+              "name": "eliamUferdy",
+              "kills": 0,
+              "deaths": 0,
+              "fame": 266435
+            },
+            {
+              "name": "RaphaCosta",
+              "kills": 0,
+              "deaths": 1,
+              "fame": 0
+            },
+            {
+              "name": "Hashz",
+              "kills": 0,
+              "deaths": 0,
+              "fame": 266435
+            },
+            {
+              "name": "xKIINGREDx",
+              "kills": 0,
+              "deaths": 0,
+              "fame": 230105
+            },
+            {
+              "name": "DamianaLewis",
+              "kills": 0,
+              "deaths": 0,
+              "fame": 123005
+            },
+            {
+              "name": "SAMAELzz",
+              "kills": 0,
+              "deaths": 0,
+              "fame": 266435
+            },
+            {
+              "name": "Linatic",
+              "kills": 0,
+              "deaths": 0,
+              "fame": 266435
+            },
+            {
+              "name": "MEGA33",
+              "kills": 1,
+              "deaths": 0,
+              "fame": 266435
+            },
+            {
+              "name": "Lediss",
+              "kills": 0,
+              "deaths": 0,
+              "fame": 446693
+            },
+            {
+              "name": "KIPPERzz",
+              "kills": 4,
+              "deaths": 0,
+              "fame": 446693
+            },
+            {
+              "name": "Junin155",
+              "kills": 0,
+              "deaths": 0,
+              "fame": 446693
+            },
+            {
+              "name": "Delz",
+              "kills": 0,
+              "deaths": 0,
+              "fame": 112087
+            },
+            {
+              "name": "Alvinegr0",
+              "kills": 0,
+              "deaths": 0,
+              "fame": 446693
+            },
+            {
+              "name": "Elviiisan",
+              "kills": 0,
+              "deaths": 0,
+              "fame": 266435
+            }
+          ],
+          "total_kills": 36,
+          "total_deaths": 6,
+          "total_fame": 16579770
+        },
+        "Kool Aid": {
+          "players": [
+            {
+              "name": "LeggyBean",
+              "kills": 0,
+              "deaths": 1,
+              "fame": 1057894
+            },
+            {
+              "name": "murloka",
+              "kills": 0,
+              "deaths": 1,
+              "fame": 0
+            },
+            {
+              "name": "xRetribution",
+              "kills": 0,
+              "deaths": 1,
+              "fame": 420520
+            },
+            {
+              "name": "Cozmiic",
+              "kills": 1,
+              "deaths": 0,
+              "fame": 420520
+            },
+            {
+              "name": "Nooberr",
+              "kills": 0,
+              "deaths": 0,
+              "fame": 403448
+            },
+            {
+              "name": "Alflinn",
+              "kills": 1,
+              "deaths": 1,
+              "fame": 1057894
+            },
+            {
+              "name": "Lagreenwell",
+              "kills": 0,
+              "deaths": 0,
+              "fame": 48707
+            },
+            {
+              "name": "Ozl",
+              "kills": 1,
+              "deaths": 1,
+              "fame": 840137
+            },
+            {
+              "name": "Fivestars",
+              "kills": 0,
+              "deaths": 1,
+              "fame": 336300
+            },
+            {
+              "name": "KnifeDay",
+              "kills": 0,
+              "deaths": 1,
+              "fame": 171097
+            },
+            {
+              "name": "Demianswagg",
+              "kills": 0,
+              "deaths": 1,
+              "fame": 1057894
+            },
+            {
+              "name": "Shizaav",
+              "kills": 0,
+              "deaths": 1,
+              "fame": 0
+            },
+            {
+              "name": "LuPey",
+              "kills": 2,
+              "deaths": 1,
+              "fame": 583360
+            },
+            {
+              "name": "Astolgie",
+              "kills": 0,
+              "deaths": 1,
+              "fame": 97519
+            },
+            {
+              "name": "RebeccaAlice",
+              "kills": 0,
+              "deaths": 0,
+              "fame": 192319
+            },
+            {
+              "name": "kXrolOnTop",
+              "kills": 9,
+              "deaths": 1,
+              "fame": 1057894
+            },
+            {
+              "name": "JamesFatio",
+              "kills": 0,
+              "deaths": 0,
+              "fame": 285856
+            },
+            {
+              "name": "Ciebel",
+              "kills": 0,
+              "deaths": 1,
+              "fame": 0
+            },
+            {
+              "name": "autoalex",
+              "kills": 1,
+              "deaths": 1,
+              "fame": 1057894
+            },
+            {
+              "name": "Rach",
+              "kills": 0,
+              "deaths": 1,
+              "fame": 1057894
+            },
+            {
+              "name": "Noxaurus",
+              "kills": 0,
+              "deaths": 0,
+              "fame": 48707
+            },
+            {
+              "name": "fitengr",
+              "kills": 2,
+              "deaths": 1,
+              "fame": 891428
+            },
+            {
+              "name": "CeCe4U",
+              "kills": 0,
+              "deaths": 1,
+              "fame": 420520
+            },
+            {
+              "name": "SigTheN",
+              "kills": 0,
+              "deaths": 1,
+              "fame": 0
+            },
+            {
+              "name": "trihards7ven",
+              "kills": 0,
+              "deaths": 1,
+              "fame": 97519
+            },
+            {
+              "name": "ItzPsyche",
+              "kills": 4,
+              "deaths": 1,
+              "fame": 420520
+            },
+            {
+              "name": "W1XW4X",
+              "kills": 0,
+              "deaths": 1,
+              "fame": 48707
+            },
+            {
+              "name": "fofoGG",
+              "kills": 7,
+              "deaths": 1,
+              "fame": 363416
+            },
+            {
+              "name": "Davisha",
+              "kills": 2,
+              "deaths": 1,
+              "fame": 48707
+            },
+            {
+              "name": "FeatureReplay",
+              "kills": 0,
+              "deaths": 1,
+              "fame": 311321
+            },
+            {
+              "name": "Fel1city",
+              "kills": 0,
+              "deaths": 1,
+              "fame": 0
+            },
+            {
+              "name": "IAmSoPoorHelp",
+              "kills": 1,
+              "deaths": 1,
+              "fame": 1057894
+            },
+            {
+              "name": "GOFISHMIKE",
+              "kills": 0,
+              "deaths": 1,
+              "fame": 420520
+            },
+            {
+              "name": "Raedwolff",
+              "kills": 0,
+              "deaths": 0,
+              "fame": 992118
+            },
+            {
+              "name": "fALLENaMV",
+              "kills": 16,
+              "deaths": 0,
+              "fame": 1057894
+            },
+            {
+              "name": "Vizron",
+              "kills": 0,
+              "deaths": 1,
+              "fame": 1039351
+            },
+            {
+              "name": "halxster",
+              "kills": 0,
+              "deaths": 1,
+              "fame": 420520
+            },
+            {
+              "name": "Aresxbt",
+              "kills": 0,
+              "deaths": 1,
+              "fame": 420520
+            },
+            {
+              "name": "Turbrand",
+              "kills": 0,
+              "deaths": 1,
+              "fame": 524689
+            },
+            {
+              "name": "Thir13teen",
+              "kills": 0,
+              "deaths": 1,
+              "fame": 420520
+            },
+            {
+              "name": "Bladirion",
+              "kills": 0,
+              "deaths": 1,
+              "fame": 0
+            },
+            {
+              "name": "ZenBerg3",
+              "kills": 8,
+              "deaths": 1,
+              "fame": 420520
+            },
+            {
+              "name": "ThiccBrick",
+              "kills": 0,
+              "deaths": 1,
+              "fame": 48707
+            },
+            {
+              "name": "AlphaTroodon",
+              "kills": 0,
+              "deaths": 1,
+              "fame": 84220
+            },
+            {
+              "name": "Magniks",
+              "kills": 0,
+              "deaths": 1,
+              "fame": 0
+            },
+            {
+              "name": "NoContent",
+              "kills": 2,
+              "deaths": 1,
+              "fame": 450520
+            },
+            {
+              "name": "Keypusher",
+              "kills": 0,
+              "deaths": 1,
+              "fame": 1057894
+            },
+            {
+              "name": "RipleySullivan",
+              "kills": 0,
+              "deaths": 1,
+              "fame": 1057894
+            },
+            {
+              "name": "SavageMike",
+              "kills": 0,
+              "deaths": 1,
+              "fame": 48707
+            }
+          ],
+          "total_kills": 57,
+          "total_deaths": 41,
+          "total_fame": 22320480
+        },
+        "The Outl4ws": {
+          "players": [
+            {
+              "name": "SrImortal",
+              "kills": 2,
+              "deaths": 0,
+              "fame": 211966
+            },
+            {
+              "name": "Iagorjuvnal",
+              "kills": 0,
+              "deaths": 0,
+              "fame": 211966
+            },
+            {
+              "name": "OBaobaVermelho",
+              "kills": 0,
+              "deaths": 0,
+              "fame": 211966
+            },
+            {
+              "name": "FELLYPEXX",
+              "kills": 0,
+              "deaths": 0,
+              "fame": 16451
+            },
+            {
+              "name": "Shindk7",
+              "kills": 0,
+              "deaths": 1,
+              "fame": 0
+            },
+            {
+              "name": "Enutrophe",
+              "kills": 0,
+              "deaths": 0,
+              "fame": 57169
+            },
+            {
+              "name": "DaltonDcS",
+              "kills": 2,
+              "deaths": 0,
+              "fame": 316916
+            },
+            {
+              "name": "Krytsuu",
+              "kills": 0,
+              "deaths": 0,
+              "fame": 211966
+            },
+            {
+              "name": "Tchowz",
+              "kills": 1,
+              "deaths": 0,
+              "fame": 211966
+            },
+            {
+              "name": "Davizjm",
+              "kills": 0,
+              "deaths": 0,
+              "fame": 211966
+            },
+            {
+              "name": "GolDromantico",
+              "kills": 0,
+              "deaths": 1,
+              "fame": 16451
+            },
+            {
+              "name": "Googlinho",
+              "kills": 2,
+              "deaths": 0,
+              "fame": 211966
+            },
+            {
+              "name": "SILINHA",
+              "kills": 0,
+              "deaths": 0,
+              "fame": 150641
+            },
+            {
+              "name": "Dhilicia",
+              "kills": 0,
+              "deaths": 0,
+              "fame": 94337
+            },
+            {
+              "name": "BombRoll",
+              "kills": 0,
+              "deaths": 0,
+              "fame": 211966
+            },
+            {
+              "name": "PadredoBalao",
+              "kills": 0,
+              "deaths": 0,
+              "fame": 89325
+            },
+            {
+              "name": "Revolted",
+              "kills": 0,
+              "deaths": 0,
+              "fame": 89325
+            },
+            {
+              "name": "MarioMontes",
+              "kills": 1,
+              "deaths": 0,
+              "fame": 89325
+            },
+            {
+              "name": "Sykke",
+              "kills": 0,
+              "deaths": 0,
+              "fame": 211966
+            },
+            {
+              "name": "SoakedMonster",
+              "kills": 0,
+              "deaths": 0,
+              "fame": 94337
+            },
+            {
+              "name": "FamozinGeo",
+              "kills": 0,
+              "deaths": 0,
+              "fame": 94337
+            },
+            {
+              "name": "lacard01",
+              "kills": 0,
+              "deaths": 0,
+              "fame": 94337
+            },
+            {
+              "name": "FranBr",
+              "kills": 0,
+              "deaths": 0,
+              "fame": 94337
+            },
+            {
+              "name": "Sirjoo",
+              "kills": 1,
+              "deaths": 0,
+              "fame": 798404
+            },
+            {
+              "name": "LunaBRABA",
+              "kills": 0,
+              "deaths": 0,
+              "fame": 211966
+            },
+            {
+              "name": "Gaspyz",
+              "kills": 0,
+              "deaths": 0,
+              "fame": 211966
+            },
+            {
+              "name": "Menina",
+              "kills": 0,
+              "deaths": 0,
+              "fame": 211966
+            },
+            {
+              "name": "Abaddon073",
+              "kills": 0,
+              "deaths": 1,
+              "fame": 16451
+            },
+            {
+              "name": "RagnaYi",
+              "kills": 0,
+              "deaths": 1,
+              "fame": 16451
+            },
+            {
+              "name": "qqcquedmin",
+              "kills": 0,
+              "deaths": 0,
+              "fame": 211966
+            },
+            {
+              "name": "RodrigoAS",
+              "kills": 1,
+              "deaths": 0,
+              "fame": 94337
+            },
+            {
+              "name": "BigHempDaddy",
+              "kills": 0,
+              "deaths": 0,
+              "fame": 16451
+            }
+          ],
+          "total_kills": 10,
+          "total_deaths": 4,
+          "total_fame": 4994940
+        },
+        "4YouBack": {
+          "players": [
+            {
+              "name": "IMPRUDENCE",
+              "kills": 1,
+              "deaths": 0,
+              "fame": 268795
+            },
+            {
+              "name": "LordDuckHunt",
+              "kills": 0,
+              "deaths": 0,
+              "fame": 268795
+            },
+            {
+              "name": "zNeganAO",
+              "kills": 1,
+              "deaths": 0,
+              "fame": 268795
+            },
+            {
+              "name": "Frinz",
+              "kills": 0,
+              "deaths": 0,
+              "fame": 268795
+            },
+            {
+              "name": "Ajjota",
+              "kills": 0,
+              "deaths": 0,
+              "fame": 268795
+            },
+            {
+              "name": "Jeffrey705",
+              "kills": 0,
+              "deaths": 0,
+              "fame": 268795
+            },
+            {
+              "name": "Luqqa",
+              "kills": 2,
+              "deaths": 0,
+              "fame": 268795
+            },
+            {
+              "name": "gatolocoxD",
+              "kills": 1,
+              "deaths": 0,
+              "fame": 268795
+            }
+          ],
+          "total_kills": 5,
+          "total_deaths": 0,
+          "total_fame": 2150360
+        },
+        "DEATHR0W": {
+          "players": [
+            {
+              "name": "YEEEEK",
+              "kills": 0,
+              "deaths": 0,
+              "fame": 96885
+            },
+            {
+              "name": "Manadem",
+              "kills": 3,
+              "deaths": 0,
+              "fame": 370672
+            },
+            {
+              "name": "kindaaaa",
+              "kills": 0,
+              "deaths": 0,
+              "fame": 51914
+            },
+            {
+              "name": "NA5TY",
+              "kills": 0,
+              "deaths": 0,
+              "fame": 179429
+            },
+            {
+              "name": "DivineIncubus",
+              "kills": 0,
+              "deaths": 0,
+              "fame": 370672
+            },
+            {
+              "name": "Llaves",
+              "kills": 0,
+              "deaths": 0,
+              "fame": 51914
+            },
+            {
+              "name": "ElGordoBigote",
+              "kills": 1,
+              "deaths": 0,
+              "fame": 51914
+            },
+            {
+              "name": "MinHi",
+              "kills": 0,
+              "deaths": 0,
+              "fame": 51914
+            }
+          ],
+          "total_kills": 4,
+          "total_deaths": 0,
+          "total_fame": 1225314
+        },
+        "BAGUGA": {
+          "players": [
+            {
+              "name": "2filho",
+              "kills": 0,
+              "deaths": 0,
+              "fame": 266435
+            }
+          ],
+          "total_kills": 0,
+          "total_deaths": 0,
+          "total_fame": 266435
+        },
+        "INTERDITS": {
+          "players": [
+            {
+              "name": "AsadoTactico",
+              "kills": 0,
+              "deaths": 1,
+              "fame": 0
+            }
+          ],
+          "total_kills": 0,
+          "total_deaths": 1,
+          "total_fame": 0
+        }
+      }
+    }
+  },
+  {
+    "battle_id": 1179317816,
+    "time": "2025-03-25T02:56:05.113479+00:00",
+    "players": 42,
+    "kills": 32,
+    "deaths": 1,
+    "fame": 10403639,
+    "details": {
+      "id": 1179317816,
+      "time": "2025-03-25T02:56:05.113479+00:00",
+      "guilds": {
+        "We Profit": {
+          "players": [
+            {
+              "name": "Hashz",
+              "kills": 1,
+              "deaths": 0,
+              "fame": 126277
+            },
+            {
+              "name": "OtavioW",
+              "kills": 1,
+              "deaths": 1,
+              "fame": 158615
+            },
+            {
+              "name": "JaksonFelipe",
+              "kills": 1,
+              "deaths": 0,
+              "fame": 123507
+            },
+            {
+              "name": "DarkPheonix22",
+              "kills": 0,
+              "deaths": 0,
+              "fame": 365117
+            },
+            {
+              "name": "JesusViatnamita",
+              "kills": 2,
+              "deaths": 0,
+              "fame": 123507
+            },
+            {
+              "name": "CarysAssuna",
+              "kills": 3,
+              "deaths": 0,
+              "fame": 424120
+            },
+            {
+              "name": "QUAKEJHOW",
+              "kills": 1,
+              "deaths": 0,
+              "fame": 266049
+            },
+            {
+              "name": "EricksonHood",
+              "kills": 0,
+              "deaths": 0,
+              "fame": 266049
+            },
+            {
+              "name": "ILinker",
+              "kills": 1,
+              "deaths": 0,
+              "fame": 126277
+            },
+            {
+              "name": "bonby",
+              "kills": 0,
+              "deaths": 0,
+              "fame": 123507
+            },
+            {
+              "name": "Talegrinho",
+              "kills": 0,
+              "deaths": 0,
+              "fame": 123507
+            },
+            {
+              "name": "ByFaded",
+              "kills": 0,
+              "deaths": 0,
+              "fame": 365117
+            },
+            {
+              "name": "Wqgt",
+              "kills": 2,
+              "deaths": 0,
+              "fame": 94292
+            },
+            {
+              "name": "Jtaborda2",
+              "kills": 0,
+              "deaths": 0,
+              "fame": 94292
+            },
+            {
+              "name": "StrangerRollo",
+              "kills": 0,
+              "deaths": 0,
+              "fame": 403208
+            },
+            {
+              "name": "Aless0",
+              "kills": 1,
+              "deaths": 0,
+              "fame": 126277
+            },
+            {
+              "name": "HeIux",
+              "kills": 0,
+              "deaths": 0,
+              "fame": 367994
+            },
+            {
+              "name": "uTalDoCalcinha",
+              "kills": 2,
+              "deaths": 0,
+              "fame": 352619
+            },
+            {
+              "name": "SAMAELzz",
+              "kills": 1,
+              "deaths": 0,
+              "fame": 268819
+            },
+            {
+              "name": "xBull1999x",
+              "kills": 0,
+              "deaths": 0,
+              "fame": 123507
+            },
+            {
+              "name": "Ramego",
+              "kills": 1,
+              "deaths": 0,
+              "fame": 424120
+            },
+            {
+              "name": "TomBRR",
+              "kills": 1,
+              "deaths": 0,
+              "fame": 367994
+            },
+            {
+              "name": "g3neciss",
+              "kills": 0,
+              "deaths": 0,
+              "fame": 126277
+            },
+            {
+              "name": "MEGA33",
+              "kills": 0,
+              "deaths": 0,
+              "fame": 126277
+            },
+            {
+              "name": "xXEJOD27Xx",
+              "kills": 0,
+              "deaths": 0,
+              "fame": 123507
+            },
+            {
+              "name": "P4TREK",
+              "kills": 0,
+              "deaths": 0,
+              "fame": 63913
+            },
+            {
+              "name": "DRLUIS23",
+              "kills": 1,
+              "deaths": 0,
+              "fame": 491367
+            },
+            {
+              "name": "HyperNTJ",
+              "kills": 0,
+              "deaths": 0,
+              "fame": 94292
+            },
+            {
+              "name": "GABYSBR",
+              "kills": 1,
+              "deaths": 0,
+              "fame": 424120
+            },
+            {
+              "name": "guiribpas",
+              "kills": 0,
+              "deaths": 0,
+              "fame": 94292
+            },
+            {
+              "name": "eliamUferdy",
+              "kills": 0,
+              "deaths": 0,
+              "fame": 367994
+            },
+            {
+              "name": "Melle002",
+              "kills": 6,
+              "deaths": 0,
+              "fame": 547493
+            },
+            {
+              "name": "Piaozeira",
+              "kills": 1,
+              "deaths": 0,
+              "fame": 126277
+            },
+            {
+              "name": "Dentuca",
+              "kills": 4,
+              "deaths": 0,
+              "fame": 367994
+            },
+            {
+              "name": "GABRIELINSANIAM",
+              "kills": 0,
+              "deaths": 0,
+              "fame": 94292
+            },
+            {
+              "name": "SunTsui",
+              "kills": 1,
+              "deaths": 0,
+              "fame": 365117
+            },
+            {
+              "name": "DiiMarol4",
+              "kills": 0,
+              "deaths": 0,
+              "fame": 367994
+            },
+            {
+              "name": "Maxito10",
+              "kills": 0,
+              "deaths": 0,
+              "fame": 266049
+            },
+            {
+              "name": "Juninho7l",
+              "kills": 0,
+              "deaths": 0,
+              "fame": 126277
+            },
+            {
+              "name": "GabiiiS2",
+              "kills": 0,
+              "deaths": 0,
+              "fame": 367994
+            },
+            {
+              "name": "ikkikuro",
+              "kills": 0,
+              "deaths": 0,
+              "fame": 123507
+            },
+            {
+              "name": "Real70",
+              "kills": 0,
+              "deaths": 0,
+              "fame": 94292
+            }
+          ],
+          "total_kills": 32,
+          "total_deaths": 1,
+          "total_fame": 9974096
+        },
+        "I DOOM I": {
+          "players": [
+            {
+              "name": "SOLDADODEDIOS",
+              "kills": 0,
+              "deaths": 1,
+              "fame": 0
+            },
+            {
+              "name": "MrNevado",
+              "kills": 0,
+              "deaths": 1,
+              "fame": 22421
+            },
+            {
+              "name": "PEAKJUNIOR",
+              "kills": 1,
+              "deaths": 1,
+              "fame": 22421
+            },
+            {
+              "name": "EntomaVasilissaZ",
+              "kills": 0,
+              "deaths": 0,
+              "fame": 22421
+            },
+            {
+              "name": "KVN916",
+              "kills": 0,
+              "deaths": 1,
+              "fame": 207
+            },
+            {
+              "name": "ANTIFAMA",
+              "kills": 0,
+              "deaths": 0,
+              "fame": 22421
+            },
+            {
+              "name": "Pingonzilla",
+              "kills": 0,
+              "deaths": 0,
+              "fame": 207
+            },
+            {
+              "name": "Th3OlbaP",
+              "kills": 0,
+              "deaths": 1,
+              "fame": 22421
+            },
+            {
+              "name": "saurio97",
+              "kills": 0,
+              "deaths": 1,
+              "fame": 0
+            },
+            {
+              "name": "ArcanNova",
+              "kills": 0,
+              "deaths": 0,
+              "fame": 22421
+            },
+            {
+              "name": "MecuteiMei",
+              "kills": 0,
+              "deaths": 1,
+              "fame": 22421
+            },
+            {
+              "name": "Aveuss",
+              "kills": 0,
+              "deaths": 0,
+              "fame": 22421
+            },
+            {
+              "name": "CHAMO3000",
+              "kills": 0,
+              "deaths": 0,
+              "fame": 22421
+            },
+            {
+              "name": "Caballero1",
+              "kills": 0,
+              "deaths": 1,
+              "fame": 22421
+            },
+            {
+              "name": "BlackPowerCol",
+              "kills": 0,
+              "deaths": 1,
+              "fame": 22421
+            },
+            {
+              "name": "RagnarIILothbrok",
+              "kills": 0,
+              "deaths": 0,
+              "fame": 22421
+            },
+            {
+              "name": "Steban1990",
+              "kills": 0,
+              "deaths": 0,
+              "fame": 22421
+            },
+            {
+              "name": "RamboSensual",
+              "kills": 0,
+              "deaths": 0,
+              "fame": 207
+            },
+            {
+              "name": "Ghisxz",
+              "kills": 0,
+              "deaths": 0,
+              "fame": 22421
+            },
+            {
+              "name": "BenaVides",
+              "kills": 0,
+              "deaths": 1,
+              "fame": 207
+            },
+            {
+              "name": "Kiara25",
+              "kills": 0,
+              "deaths": 1,
+              "fame": 22421
+            },
+            {
+              "name": "DH1",
+              "kills": 0,
+              "deaths": 1,
+              "fame": 22421
+            },
+            {
+              "name": "Krooocker",
+              "kills": 0,
+              "deaths": 1,
+              "fame": 0
+            },
+            {
+              "name": "bxavi",
+              "kills": 0,
+              "deaths": 1,
+              "fame": 22421
+            },
+            {
+              "name": "Hitzugy",
+              "kills": 0,
+              "deaths": 0,
+              "fame": 22421
+            },
+            {
+              "name": "Jiam",
+              "kills": 0,
+              "deaths": 0,
+              "fame": 207
+            },
+            {
+              "name": "Asyrsen",
+              "kills": 0,
+              "deaths": 0,
+              "fame": 207
+            },
+            {
+              "name": "DLPEEP",
+              "kills": 0,
+              "deaths": 0,
+              "fame": 22421
+            }
+          ],
+          "total_kills": 1,
+          "total_deaths": 14,
+          "total_fame": 427241
+        },
+        "Blodfang": {
+          "players": [
+            {
+              "name": "Miguel988TV",
+              "kills": 0,
+              "deaths": 1,
+              "fame": 0
+            }
+          ],
+          "total_kills": 0,
+          "total_deaths": 1,
+          "total_fame": 0
+        },
+        "VK Army": {
+          "players": [
+            {
+              "name": "AzeliHE",
+              "kills": 0,
+              "deaths": 1,
+              "fame": 0
+            }
+          ],
+          "total_kills": 0,
+          "total_deaths": 1,
+          "total_fame": 0
+        },
+        "VEND3TTTA": {
+          "players": [
+            {
+              "name": "veneco2000",
+              "kills": 0,
+              "deaths": 0,
+              "fame": 207
+            },
+            {
+              "name": "DILER6",
+              "kills": 0,
+              "deaths": 0,
+              "fame": 207
+            },
+            {
+              "name": "kinqstom",
+              "kills": 0,
+              "deaths": 1,
+              "fame": 207
+            },
+            {
+              "name": "holisxd",
+              "kills": 0,
+              "deaths": 1,
+              "fame": 207
+            },
+            {
+              "name": "Smiile",
+              "kills": 0,
+              "deaths": 0,
+              "fame": 207
+            },
+            {
+              "name": "MiaLeona",
+              "kills": 0,
+              "deaths": 0,
+              "fame": 207
+            },
+            {
+              "name": "Stickjobss",
+              "kills": 0,
+              "deaths": 0,
+              "fame": 207
+            },
+            {
+              "name": "mapagi",
+              "kills": 0,
+              "deaths": 1,
+              "fame": 0
+            },
+            {
+              "name": "DonAnsioso",
+              "kills": 0,
+              "deaths": 0,
+              "fame": 207
+            }
+          ],
+          "total_kills": 0,
+          "total_deaths": 3,
+          "total_fame": 1656
+        },
+        "HUJING": {
+          "players": [
+            {
+              "name": "pornhubQAQ",
+              "kills": 0,
+              "deaths": 1,
+              "fame": 0
+            },
+            {
+              "name": "Zzzsama",
+              "kills": 0,
+              "deaths": 1,
+              "fame": 0
+            },
+            {
+              "name": "Cyanosmurf",
+              "kills": 0,
+              "deaths": 1,
+              "fame": 0
+            }
+          ],
+          "total_kills": 0,
+          "total_deaths": 3,
+          "total_fame": 0
+        },
+        "MINORIA": {
+          "players": [
+            {
+              "name": "SilverMan023",
+              "kills": 0,
+              "deaths": 1,
+              "fame": 0
+            }
+          ],
+          "total_kills": 0,
+          "total_deaths": 1,
+          "total_fame": 0
+        },
+        "Tang Gate": {
+          "players": [
+            {
+              "name": "WebGL",
+              "kills": 1,
+              "deaths": 1,
+              "fame": 207
+            },
+            {
+              "name": "MilkPaPa",
+              "kills": 0,
+              "deaths": 1,
+              "fame": 0
+            },
+            {
+              "name": "Dazst",
+              "kills": 0,
+              "deaths": 1,
+              "fame": 0
+            },
+            {
+              "name": "ooaann",
+              "kills": 0,
+              "deaths": 1,
+              "fame": 0
+            },
+            {
+              "name": "Yeezii",
+              "kills": 0,
+              "deaths": 1,
+              "fame": 0
+            },
+            {
+              "name": "7yearss",
+              "kills": 0,
+              "deaths": 1,
+              "fame": 0
+            },
+            {
+              "name": "HYE3",
+              "kills": 0,
+              "deaths": 1,
+              "fame": 0
+            },
+            {
+              "name": "MrGaohy",
+              "kills": 0,
+              "deaths": 1,
+              "fame": 0
+            },
+            {
+              "name": "BigDickCHENG",
+              "kills": 0,
+              "deaths": 1,
+              "fame": 0
+            }
+          ],
+          "total_kills": 1,
+          "total_deaths": 9,
+          "total_fame": 207
+        },
+        "Culto del Kraken": {
+          "players": [
+            {
+              "name": "AlexizRmz",
+              "kills": 0,
+              "deaths": 0,
+              "fame": 207
+            }
+          ],
+          "total_kills": 0,
+          "total_deaths": 0,
+          "total_fame": 207
+        },
+        "Pretores": {
+          "players": [
+            {
+              "name": "Adlramelech",
+              "kills": 0,
+              "deaths": 1,
+              "fame": 0
+            }
+          ],
+          "total_kills": 0,
+          "total_deaths": 1,
+          "total_fame": 0
+        }
+      }
+    }
+  },
+  {
+    "battle_id": 1179515290,
+    "time": "2025-03-25T16:37:31.491592+00:00",
+    "players": 17,
+    "kills": 12,
+    "deaths": 1,
+    "fame": 10203890,
+    "details": {
+      "id": 1179515290,
+      "time": "2025-03-25T16:37:31.491592+00:00",
+      "guilds": {
+        "We Profit": {
+          "players": [
+            {
+              "name": "DRLUIS23",
+              "kills": 2,
+              "deaths": 0,
+              "fame": 623956
+            },
+            {
+              "name": "Hashz",
+              "kills": 0,
+              "deaths": 0,
+              "fame": 623956
+            },
+            {
+              "name": "xAlegazox",
+              "kills": 1,
+              "deaths": 0,
+              "fame": 623956
+            },
+            {
+              "name": "xKyra1thita",
+              "kills": 0,
+              "deaths": 1,
+              "fame": 218620
+            },
+            {
+              "name": "OtavioW",
+              "kills": 2,
+              "deaths": 0,
+              "fame": 302102
+            },
+            {
+              "name": "CarysAssuna",
+              "kills": 0,
+              "deaths": 0,
+              "fame": 623956
+            },
+            {
+              "name": "EricksonHood",
+              "kills": 0,
+              "deaths": 0,
+              "fame": 623956
+            },
+            {
+              "name": "ILinker",
+              "kills": 3,
+              "deaths": 0,
+              "fame": 560469
+            },
+            {
+              "name": "ByFaded",
+              "kills": 2,
+              "deaths": 0,
+              "fame": 623956
+            },
+            {
+              "name": "Aless0",
+              "kills": 0,
+              "deaths": 0,
+              "fame": 623956
+            },
+            {
+              "name": "TomBRR",
+              "kills": 0,
+              "deaths": 0,
+              "fame": 302102
+            },
+            {
+              "name": "Baiumm",
+              "kills": 0,
+              "deaths": 0,
+              "fame": 116517
+            },
+            {
+              "name": "OhYeahXD",
+              "kills": 1,
+              "deaths": 0,
+              "fame": 623956
+            },
+            {
+              "name": "MEGA33",
+              "kills": 1,
+              "deaths": 0,
+              "fame": 679537
+            },
+            {
+              "name": "xXEJOD27Xx",
+              "kills": 0,
+              "deaths": 0,
+              "fame": 679537
+            },
+            {
+              "name": "FEERSHO",
+              "kills": 0,
+              "deaths": 0,
+              "fame": 623956
+            },
+            {
+              "name": "69RPH69",
+              "kills": 0,
+              "deaths": 0,
+              "fame": 623956
+            }
+          ],
+          "total_kills": 12,
+          "total_deaths": 1,
+          "total_fame": 9098444
+        },
+        "ALL BANDITS": {
+          "players": [
+            {
+              "name": "VikinGregor",
+              "kills": 0,
+              "deaths": 0,
+              "fame": 18017
+            },
+            {
+              "name": "lredrosel",
+              "kills": 0,
+              "deaths": 0,
+              "fame": 18017
+            },
+            {
+              "name": "DemoCraft",
+              "kills": 0,
+              "deaths": 1,
+              "fame": 18017
+            },
+            {
+              "name": "MikoV2",
+              "kills": 0,
+              "deaths": 1,
+              "fame": 18017
+            },
+            {
+              "name": "Mamitka",
+              "kills": 0,
+              "deaths": 0,
+              "fame": 18017
+            },
+            {
+              "name": "Ivon91",
+              "kills": 0,
+              "deaths": 0,
+              "fame": 18017
+            },
+            {
+              "name": "Gumverte",
+              "kills": 0,
+              "deaths": 1,
+              "fame": 18017
+            },
+            {
+              "name": "MinerAtes",
+              "kills": 0,
+              "deaths": 1,
+              "fame": 18017
+            },
+            {
+              "name": "LisKostek",
+              "kills": 0,
+              "deaths": 1,
+              "fame": 18017
+            }
+          ],
+          "total_kills": 0,
+          "total_deaths": 5,
+          "total_fame": 162153
+        },
+        "Bring OC": {
+          "players": [
+            {
+              "name": "MeLoveChicken",
+              "kills": 1,
+              "deaths": 1,
+              "fame": 18017
+            }
+          ],
+          "total_kills": 1,
+          "total_deaths": 1,
+          "total_fame": 18017
+        },
+        "Raven Lunatics": {
+          "players": [
+            {
+              "name": "Aradnik",
+              "kills": 0,
+              "deaths": 1,
+              "fame": 18017
+            }
+          ],
+          "total_kills": 0,
+          "total_deaths": 1,
+          "total_fame": 18017
+        },
+        "Sea-Sky Fraternity": {
+          "players": [
+            {
+              "name": "Oxgenyang",
+              "kills": 0,
+              "deaths": 1,
+              "fame": 0
+            }
+          ],
+          "total_kills": 0,
+          "total_deaths": 1,
+          "total_fame": 0
+        },
+        "RIP2U": {
+          "players": [
+            {
+              "name": "darkalex",
+              "kills": 0,
+              "deaths": 1,
+              "fame": 18017
+            }
+          ],
+          "total_kills": 0,
+          "total_deaths": 1,
+          "total_fame": 18017
+        },
+        "Make Albion Great Again II": {
+          "players": [
+            {
+              "name": "StinkyVanix",
+              "kills": 0,
+              "deaths": 1,
+              "fame": 18017
+            }
+          ],
+          "total_kills": 0,
+          "total_deaths": 1,
+          "total_fame": 18017
+        },
+        "": {
+          "players": [
+            {
+              "name": "RenatiiN",
+              "kills": 0,
+              "deaths": 0,
+              "fame": 408561
+            }
+          ],
+          "total_kills": 0,
+          "total_deaths": 0,
+          "total_fame": 408561
+        },
+        "PlVAS": {
+          "players": [
+            {
+              "name": "IBatataLoka",
+              "kills": 0,
+              "deaths": 1,
+              "fame": 18017
+            },
+            {
+              "name": "Deboxadox",
+              "kills": 0,
+              "deaths": 1,
+              "fame": 18017
+            },
+            {
+              "name": "BiancoBaffo",
+              "kills": 0,
+              "deaths": 1,
+              "fame": 18017
+            }
+          ],
+          "total_kills": 0,
+          "total_deaths": 3,
+          "total_fame": 54051
+        },
+        "Dive Nem Fodendo": {
+          "players": [
+            {
+              "name": "pipinware",
+              "kills": 1,
+              "deaths": 0,
+              "fame": 408561
+            }
+          ],
+          "total_kills": 1,
+          "total_deaths": 0,
+          "total_fame": 408561
+        }
+      }
+    }
+  },
+  {
+    "battle_id": 1179820400,
+    "time": "2025-03-26T05:08:33.206158+00:00",
+    "players": 24,
+    "kills": 26,
+    "deaths": 7,
+    "fame": 10780533,
+    "details": {
+      "id": 1179820400,
+      "time": "2025-03-26T05:08:33.206158+00:00",
+      "guilds": {
+        "We Profit": {
+          "players": [
+            {
+              "name": "Hashz",
+              "kills": 0,
+              "deaths": 0,
+              "fame": 389466
+            },
+            {
+              "name": "JaksonFelipe",
+              "kills": 4,
+              "deaths": 0,
+              "fame": 433339
+            },
+            {
+              "name": "DarkPheonix22",
+              "kills": 1,
+              "deaths": 0,
+              "fame": 627686
+            },
+            {
+              "name": "JesusViatnamita",
+              "kills": 0,
+              "deaths": 0,
+              "fame": 389466
+            },
+            {
+              "name": "EricksonHood",
+              "kills": 5,
+              "deaths": 0,
+              "fame": 448798
+            },
+            {
+              "name": "DIAELIS",
+              "kills": 0,
+              "deaths": 1,
+              "fame": 115934
+            },
+            {
+              "name": "Aless0",
+              "kills": 1,
+              "deaths": 0,
+              "fame": 448798
+            },
+            {
+              "name": "Muphasa",
+              "kills": 0,
+              "deaths": 0,
+              "fame": 448798
+            },
+            {
+              "name": "TomBRR",
+              "kills": 0,
+              "deaths": 0,
+              "fame": 448798
+            },
+            {
+              "name": "BLACKPENGRAGON",
+              "kills": 1,
+              "deaths": 0,
+              "fame": 448798
+            },
+            {
+              "name": "Suetanzz",
+              "kills": 2,
+              "deaths": 0,
+              "fame": 389466
+            },
+            {
+              "name": "MEGA33",
+              "kills": 4,
+              "deaths": 1,
+              "fame": 115934
+            },
+            {
+              "name": "xXEJOD27Xx",
+              "kills": 0,
+              "deaths": 0,
+              "fame": 448798
+            },
+            {
+              "name": "Kriegswaffe",
+              "kills": 0,
+              "deaths": 0,
+              "fame": 497871
+            },
+            {
+              "name": "Resetsui",
+              "kills": 1,
+              "deaths": 0,
+              "fame": 314253
+            },
+            {
+              "name": "GABYSBR",
+              "kills": 1,
+              "deaths": 0,
+              "fame": 310230
+            },
+            {
+              "name": "guiribpas",
+              "kills": 0,
+              "deaths": 0,
+              "fame": 197754
+            },
+            {
+              "name": "eliamUferdy",
+              "kills": 0,
+              "deaths": 0,
+              "fame": 374007
+            },
+            {
+              "name": "Melle002",
+              "kills": 4,
+              "deaths": 0,
+              "fame": 317107
+            },
+            {
+              "name": "Dentuca",
+              "kills": 1,
+              "deaths": 2,
+              "fame": 214544
+            },
+            {
+              "name": "jhonaiker3",
+              "kills": 1,
+              "deaths": 0,
+              "fame": 6324
+            },
+            {
+              "name": "GabiiiS2",
+              "kills": 0,
+              "deaths": 0,
+              "fame": 389466
+            },
+            {
+              "name": "Kaagamii",
+              "kills": 0,
+              "deaths": 2,
+              "fame": 10974
+            },
+            {
+              "name": "UNICORNS2",
+              "kills": 0,
+              "deaths": 1,
+              "fame": 273532
+            }
+          ],
+          "total_kills": 26,
+          "total_deaths": 7,
+          "total_fame": 8060141
+        },
+        "Muxolots": {
+          "players": [
+            {
+              "name": "W4ri",
+              "kills": 0,
+              "deaths": 1,
+              "fame": 0
+            },
+            {
+              "name": "kimini1987",
+              "kills": 0,
+              "deaths": 1,
+              "fame": 181824
+            },
+            {
+              "name": "stemtec",
+              "kills": 0,
+              "deaths": 2,
+              "fame": 117853
+            },
+            {
+              "name": "Bhoreldegenerado",
+              "kills": 0,
+              "deaths": 0,
+              "fame": 181824
+            },
+            {
+              "name": "Guardian231",
+              "kills": 0,
+              "deaths": 1,
+              "fame": 0
+            },
+            {
+              "name": "ZapitX",
+              "kills": 3,
+              "deaths": 1,
+              "fame": 181824
+            },
+            {
+              "name": "zekej21",
+              "kills": 0,
+              "deaths": 0,
+              "fame": 181824
+            },
+            {
+              "name": "TheKGamer",
+              "kills": 0,
+              "deaths": 1,
+              "fame": 0
+            },
+            {
+              "name": "DeAlexandro",
+              "kills": 1,
+              "deaths": 1,
+              "fame": 181824
+            },
+            {
+              "name": "FigexV",
+              "kills": 0,
+              "deaths": 0,
+              "fame": 29040
+            },
+            {
+              "name": "JOEL333",
+              "kills": 1,
+              "deaths": 0,
+              "fame": 120783
+            },
+            {
+              "name": "GranFOx",
+              "kills": 0,
+              "deaths": 1,
+              "fame": 0
+            },
+            {
+              "name": "Verdant94",
+              "kills": 0,
+              "deaths": 1,
+              "fame": 0
+            },
+            {
+              "name": "XzeroXBK",
+              "kills": 0,
+              "deaths": 1,
+              "fame": 0
+            },
+            {
+              "name": "TheAsenssio",
+              "kills": 0,
+              "deaths": 0,
+              "fame": 181824
+            },
+            {
+              "name": "Rykiiry",
+              "kills": 1,
+              "deaths": 2,
+              "fame": 88813
+            },
+            {
+              "name": "alexlopez3",
+              "kills": 0,
+              "deaths": 1,
+              "fame": 181824
+            },
+            {
+              "name": "magaszo",
+              "kills": 0,
+              "deaths": 0,
+              "fame": 93011
+            },
+            {
+              "name": "SquishyOn",
+              "kills": 0,
+              "deaths": 1,
+              "fame": 0
+            },
+            {
+              "name": "Sanyiek",
+              "kills": 0,
+              "deaths": 2,
+              "fame": 117853
+            },
+            {
+              "name": "Araj4247",
+              "kills": 0,
+              "deaths": 1,
+              "fame": 0
+            },
+            {
+              "name": "Llapingacho",
+              "kills": 0,
+              "deaths": 1,
+              "fame": 0
+            },
+            {
+              "name": "minibigking",
+              "kills": 0,
+              "deaths": 0,
+              "fame": 181824
+            },
+            {
+              "name": "Almukhtar",
+              "kills": 0,
+              "deaths": 1,
+              "fame": 0
+            },
+            {
+              "name": "Lesan27",
+              "kills": 1,
+              "deaths": 1,
+              "fame": 152784
+            },
+            {
+              "name": "RexUmbra122g",
+              "kills": 0,
+              "deaths": 1,
+              "fame": 0
+            },
+            {
+              "name": "XavierPBR",
+              "kills": 0,
+              "deaths": 1,
+              "fame": 181824
+            },
+            {
+              "name": "Schrank",
+              "kills": 0,
+              "deaths": 0,
+              "fame": 181824
+            },
+            {
+              "name": "BazziKiller",
+              "kills": 0,
+              "deaths": 0,
+              "fame": 181824
+            },
+            {
+              "name": "Khazlane",
+              "kills": 0,
+              "deaths": 1,
+              "fame": 0
+            },
+            {
+              "name": "iEilen",
+              "kills": 0,
+              "deaths": 1,
+              "fame": 0
+            }
+          ],
+          "total_kills": 7,
+          "total_deaths": 25,
+          "total_fame": 2720201
+        },
+        "Tropa da Linguica": {
+          "players": [
+            {
+              "name": "Moxako",
+              "kills": 0,
+              "deaths": 1,
+              "fame": 0
+            }
+          ],
+          "total_kills": 0,
+          "total_deaths": 1,
+          "total_fame": 0
+        }
+      }
+    }
+  }
+]

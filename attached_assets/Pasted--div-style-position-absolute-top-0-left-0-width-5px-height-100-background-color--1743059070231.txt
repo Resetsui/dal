@@ -1,0 +1,42 @@
+<div style="position: absolute; top: 0; left: 0; width: 5px; 
+     height: 100%; background-color: #4CAF50;"></div>
+
+<div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 12px;">
+    <div>
+        <span style="color: #AAAAAA; font-size: 12px;">25/03/2025 02:56</span>
+        <div style="font-weight: bold; margin-top: 5px; color: #F5B841; font-size: 16px;">
+            42 jogadores
+        </div>
+    </div>
+    <div>
+        <span style="background-color: #4CAF50; 
+             color: white; padding: 4px 10px; border-radius: 4px; font-weight: bold;">
+            Vitória
+        </span>
+    </div>
+</div>
+
+<div style="display: flex; justify-content: space-between; margin: 15px 0; 
+     background-color: rgba(0,0,0,0.2); padding: 10px; border-radius: 6px;">
+    <div style="text-align: center; padding: 0 15px;">
+        <div style="font-size: 22px; font-weight: bold; color: #4CAF50;">32</div>
+        <div style="font-size: 12px; color: #AAAAAA;">Kills</div>
+    </div>
+    <div style="text-align: center; padding: 0 15px; border-left: 1px solid rgba(255,255,255,0.1); 
+         border-right: 1px solid rgba(255,255,255,0.1);">
+        <div style="font-size: 22px; font-weight: bold; color: #FF5252;">1</div>
+        <div style="font-size: 12px; color: #AAAAAA;">Mortes</div>
+    </div>
+    <div style="text-align: center; padding: 0 15px;">
+        <div style="font-size: 22px; font-weight: bold; color: #F5B841;">32.00</div>
+        <div style="font-size: 12px; color: #AAAAAA;">K/D</div>
+    </div>
+</div>
+
+
+<div style="margin-top: 10px;">
+    <div style="font-size: 13px; color: #AAAAAA; margin-bottom: 8px;">Top Players:</div>
+    <div style="display: flex; flex-wrap: wrap; gap: 8px;">
+        <div style="background-color: rgba(245, 184, 65, 0.1); border-radius: 4px; padding: 4px 8px; font-size: 12px;"><span style="color: #F5B841;">Melle002</span><span style="color: white; margin-left: 5px;">(6/0)</span></div><div style="background-color: rgba(245, 184, 65, 0.1); border-radius: 4px; padding: 4px 8px; font-size: 12px;"><span style="color: #F5B841;">Dentuca</span><span style="color: white; margin-left: 5px;">(4/0)</span></div><div style="background-color: rgba(245, 184, 65, 0.1); border-radius: 4px; padding: 4px 8px; font-size: 12px;"><span style="color: #F5B841;">CarysAssuna</span><span style="color: white; margin-left: 5px;">(3/0)</span></div>
+    </div>
+</div>
