@@ -1,8 +1,3 @@
-Parece que o código contém uma linha com um comentário fora de lugar, além de problemas de indentação e um texto começando de maneira incorreta no início do código. Vou corrigir o erro e ajustar a formatação de acordo com o que foi proposto.
-
-Aqui está o código corrigido:
-
-```python
 import streamlit as st
 import pandas as pd
 from datetime import datetime, timedelta
@@ -11,7 +6,7 @@ import logging
 from apscheduler.schedulers.background import BackgroundScheduler
 
 # Importar nossos módulos
-from direct_scraper import get_battle_data # Updated import statement
+from direct_scraper import get_battle_data
 import utils
 
 # Importar componentes
@@ -247,9 +242,7 @@ def main():
         st.markdown(f"""
         <div style="margin-bottom: 20px; padding: 15px; background-color: #242424; border-radius: 8px; border-left: 3px solid #F5B841;">
             <p style="margin: 0; font-size: 14px;">
-                <span style="color: #F5B841; font-weight: 600;">⏱️ Status de Dados
-
-:</span>
+                <span style="color: #F5B841; font-weight: 600;">⏱️ Status de Dados:</span>
                 Atualizado em <span style="font-weight: 600; color: #F9F9F9;">{last_update.strftime('%d/%m/%Y %H:%M:%S')}</span><br>
                 Próxima atualização: <span style="font-weight: 600; color: #F9F9F9;">{next_update.strftime('%d/%m/%Y %H:%M:%S')}</span>
             </p>
@@ -307,4 +300,3 @@ def main():
         show_player_rankings(top_players)
     else:
         st.write("Nenhum jogador encontrado.")
-```
