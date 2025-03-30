@@ -1,17 +1,14 @@
+O código que você forneceu possui alguns problemas de indentação, especialmente dentro do `for` loop no final da função `main()`, e também há partes onde o código parece estar fora de lugar ou incompleto. Vou corrigir essas questões e otimizar o código para que ele funcione corretamente.
+
+Aqui está a versão corrigida:
+
+```python
 import streamlit as st
 import pandas as pd
 from datetime import datetime, timedelta
 import plotly.express as px
-import pandas as pd
-
-df = pd.DataFrame(battles)
-
-fig = px.bar(df, x="id", y="total_damage", color="winner", 
-             labels={"id": "ID da Batalha", "total_damage": "Dano Total", "winner": "Vencedor"},
-             title="🔥 Dano Total por Batalha")
-
-st.plotly_chart(fig)
-
+import logging
+from apscheduler.schedulers.background import BackgroundScheduler
 
 # Importar nossos módulos
 from direct_scraper import get_battle_data # Updated import statement
@@ -198,24 +195,6 @@ def get_top_players(battles_df, metric='kills', limit=3):
     # Ordenar e obter os top jogadores pelo métrica escolhida
     return player_stats.sort_values(metric, ascending=False).head(limit).to_dict('records')
 
-# Função para mostrar detalhes de uma batalha (mantida para compatibilidade)
-def show_battle_details(battle, guild_name=None, alliance_name=None):
-    """
-    Função para mostrar detalhes de uma batalha específica
-    Esta função mantém compatibilidade com o código antigo
-
-    Args:
-        battle: Dados da batalha
-        guild_name: Nome da guild (opcional)
-        alliance_name: Nome da aliança (opcional)
-    """
-    if guild_name is None:
-        guild_name = GUILD_NAME
-
-    # Chamamos o componente modularizado
-    from components.battle_details import show_battle_details as component_show_battle_details
-    component_show_battle_details(battle, guild_name, alliance_name)
-
 # Função principal
 def main():
     # Carregar CSS customizado
@@ -297,94 +276,4 @@ def main():
     # Container para filtros com estilo dourado da guild
     with st.container():
         st.markdown("""
-        <div style="background-color: rgba(245, 184, 65, 0.15); padding: 15px; border-radius: 8px; margin: 15px 0; border: 1px solid rgba(245, 184, 65, 0.3); box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);">
-            <h4 style="color: #F5B841; margin: 0; display: flex; align-items: center; gap: 8px; font-size: 16px;">
-                <span style="font-size: 16px;">⚙️</span> Filtros de Batalha
-            </h4>
-        </div>
-        """, unsafe_allow_html=True)
-
-        col1, col2 = st.columns(2)
-        
-        with col1:
-            min_players = st.slider(
-                "Mínimo de jogadores por batalha",
-                min_value=1,
-                max_value=50,
-                value=MIN_PLAYERS,
-                step=1,
-                key="min_players_slider"
-            )
-        
-        with col2:
-            days = st.slider(
-                "Dias a considerar",
-                min_value=1,
-                max_value=30,
-                value=7,
-                step=1,
-                key="days_slider"
-            )
-
-    # Filtrar batalhas
-    battles_df = st.session_state['battles_data']
-    filtered_battles = filter_battles_by_players(battles_df, min_players)
-    recent_battles = get_recent_battles(filtered_battles, days)
-
-    # Tab 1: Visão Geral
-    with tabs[0]:
-        if recent_battles.empty:
-            st.warning("Nenhuma batalha encontrada com os filtros atuais.")
-        else:
-            show_guild_overview(recent_battles, GUILD_NAME, ALLIANCE_NAME)
-
-    # Tab 2: Ranking de Jogadores
-    with tabs[1]:
-        if recent_battles.empty:
-            st.warning("Nenhuma batalha encontrada com os filtros atuais.")
-        else:
-            show_player_rankings(recent_battles, GUILD_NAME)
-
-    # Tab 3: Detalhes de Batalhas
-    with tabs[2]:
-        if recent_battles.empty:
-            st.warning("Nenhuma batalha encontrada com os filtros atuais.")
-        else:
-            # Se uma batalha foi selecionada anteriormente
-            if st.session_state['selected_battle'] is not None:
-                battle = st.session_state['selected_battle']
-                show_battle_details(battle, GUILD_NAME, ALLIANCE_NAME)
-
-                if st.button("← Voltar para a lista de batalhas"):
-                    st.session_state['selected_battle'] = None
-                    st.rerun()
-            else:
-                # Lista de batalhas
-                st.subheader("Selecione uma batalha para ver detalhes")
-
-                for battle in battles:
-    with st.expander(f"🛡️ Batalha {battle['id']} - {battle['date']}"):
-        st.write(f"🔹 Guilda A: {battle['guild_a']} vs. Guilda B: {battle['guild_b']}")
-        st.write(f"🏆 Vencedor: {battle['winner']}")
-        st.write(f"🔥 Dano Total: {battle['total_damage']}")
-
-
-                    st.divider()
-
-    # Tab 4: Comparativos
-    with tabs[3]:
-        if recent_battles.empty:
-            st.warning("Nenhuma batalha encontrada com os filtros atuais.")
-        else:
-            show_comparison_tools(recent_battles, GUILD_NAME, ALLIANCE_NAME)
-            
-    # Tab 5: Attendance
-    with tabs[4]:
-        if recent_battles.empty:
-            st.warning("Nenhuma batalha encontrada com os filtros atuais.")
-        else:
-            show_attendance_tracking(recent_battles, GUILD_NAME)
-
-# Iniciar o app
-if __name__ == "__main__":
-    main()
+        <div style="background-color: rgba(245, 184, 65, 0.15); padding: 15px; border-radius: 8px; margin: 15px 0; border: 1px solid rgba(245, 184, 65, 0.3); box-shadow: 0 2px 8px rgba(0, 0, 0, 0.
