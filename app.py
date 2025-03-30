@@ -2,11 +2,16 @@ import streamlit as st
 import pandas as pd
 from datetime import datetime, timedelta
 import plotly.express as px
-import plotly.graph_objects as go
-import json
-import logging
-from apscheduler.schedulers.background import BackgroundScheduler
-import time
+import pandas as pd
+
+df = pd.DataFrame(battles)
+
+fig = px.bar(df, x="id", y="total_damage", color="winner", 
+             labels={"id": "ID da Batalha", "total_damage": "Dano Total", "winner": "Vencedor"},
+             title="🔥 Dano Total por Batalha")
+
+st.plotly_chart(fig)
+
 
 # Importar nossos módulos
 from direct_scraper import get_battle_data # Updated import statement
