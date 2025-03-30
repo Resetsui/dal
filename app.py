@@ -1,6 +1,6 @@
-CO código que você forneceu possui alguns problemas de indentação, especialmente dentro do `for` loop no final da função `main()`, e também há partes onde o código parece estar fora de lugar ou incompleto. Vou corrigir essas questões e otimizar o código para que ele funcione corretamente.
+Parece que o código contém uma linha com um comentário fora de lugar, além de problemas de indentação e um texto começando de maneira incorreta no início do código. Vou corrigir o erro e ajustar a formatação de acordo com o que foi proposto.
 
-Aqui está a versão corrigida:
+Aqui está o código corrigido:
 
 ```python
 import streamlit as st
@@ -247,34 +247,64 @@ def main():
         st.markdown(f"""
         <div style="margin-bottom: 20px; padding: 15px; background-color: #242424; border-radius: 8px; border-left: 3px solid #F5B841;">
             <p style="margin: 0; font-size: 14px;">
-                <span style="color: #F5B841; font-weight: 600;">⏱️ Status de Dados</span><br>
-                Última atualização: <b>{last_update.strftime('%d/%m/%Y %H:%M')}</b><br>
-                Próxima atualização: <b>{next_update.strftime('%d/%m/%Y %H:%M')}</b>
+                <span style="color: #F5B841; font-weight: 600;">⏱️ Status de Dados
+
+:</span>
+                Atualizado em <span style="font-weight: 600; color: #F9F9F9;">{last_update.strftime('%d/%m/%Y %H:%M:%S')}</span><br>
+                Próxima atualização: <span style="font-weight: 600; color: #F9F9F9;">{next_update.strftime('%d/%m/%Y %H:%M:%S')}</span>
             </p>
+            <p style="font-size: 13px; color: #888;">Progresso da Atualização</p>
+            <div style="height: 8px; border-radius: 5px; background: linear-gradient(to right, #F5B841, #FFB83D);">
+                <div style="height: 100%; width: {progress * 100}%; border-radius: 5px;"></div>
+            </div>
         </div>
         """, unsafe_allow_html=True)
 
     with col2:
-        if st.button("🔄 Atualizar Dados Agora", type="primary"):
-            with st.spinner("Buscando dados do scraper..."):
-                try:
-                    # Usar force_refresh=True para buscar dados diretamente do scraper
-                    st.session_state['battles_data'] = get_battle_data(force_refresh=True)
-                    from datetime import timezone
-                    st.session_state['last_update'] = datetime.now(timezone.utc)
-                    st.success("Dados atualizados com sucesso do scraper!")
-                except Exception as e:
-                    st.error(f"Falha ao atualizar dados: {str(e)}")
-                    logging.error(f"Erro na atualização manual: {e}")
-                    # Se houver erro, tenta carregar dados existentes
-                    st.session_state['battles_data'] = get_battle_data()
-                    st.warning("Usando dados locais devido a erro no scraper.")
+        # Mostrar botão de refresh para forçar uma nova atualização
+        if st.button("🔄 Atualizar Dados"):
+            if refresh_data(force_refresh=True):
+                st.success("Dados atualizados com sucesso!")
+            else:
+                st.error("Erro ao atualizar os dados. Tente novamente.")
+    
+    # Exibir estatísticas da guild
+    st.header("Estatísticas da Guild")
+    guild_stats = calculate_guild_stats(st.session_state['battles_data'])
 
-    # Abas principais
-    tabs = st.tabs(["📊 Visão Geral", "🏆 Ranking de Jogadores", "⚔️ Detalhes de Batalhas", "📈 Comparativos", "📋 Attendance"])
+    # Cartões de estatísticas
+    col1, col2, col3 = st.columns(3)
 
-    # Container para filtros com estilo dourado da guild
-    with st.container():
-        st.markdown("""
-        <div style="background-color: rgba(245, 184, 65, 0.15); padding: 15px; border-radius: 8px; margin: 15px 0; border: 1px solid rgba(245, 184, 65, 0.3); box-shadow: 0 2px 8px rgba(0, 0, 0, 0.
-""", unsafe_allow_html=True)
+    with col1:
+        show_stat_card("Total de Batalhas", guild_stats['total_battles'])
+    with col2:
+        show_stat_card("Taxa de Vitórias (%)", f"{guild_stats['win_rate']:.1f} %")
+    with col3:
+        show_stat_card("K/D Ratio", f"{guild_stats['kd_ratio']:.2f}")
+
+    # Mostrar comparações de batalhas
+    show_comparison_tools(st.session_state['battles_data'])
+
+    # Mostrar detalhes das últimas batalhas
+    st.header("Últimas Batalhas")
+    recent_battles = get_recent_battles(st.session_state['battles_data'])
+
+    # Caso tenha batalhas recentes
+    if not recent_battles.empty:
+        # Exibição das últimas batalhas
+        for battle in recent_battles.head(5).iterrows():
+            battle = battle[1]
+            show_battle_details(battle)
+    else:
+        st.write("Nenhuma batalha encontrada nos últimos dias.")
+
+    # Mostrar rankings dos jogadores
+    st.header("Top Jogadores")
+    top_players = get_top_players(st.session_state['battles_data'])
+
+    # Exibir se houver dados de jogadores
+    if top_players:
+        show_player_rankings(top_players)
+    else:
+        st.write("Nenhum jogador encontrado.")
+```
