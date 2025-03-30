@@ -1,4 +1,4 @@
-O código que você forneceu possui alguns problemas de indentação, especialmente dentro do `for` loop no final da função `main()`, e também há partes onde o código parece estar fora de lugar ou incompleto. Vou corrigir essas questões e otimizar o código para que ele funcione corretamente.
+CO código que você forneceu possui alguns problemas de indentação, especialmente dentro do `for` loop no final da função `main()`, e também há partes onde o código parece estar fora de lugar ou incompleto. Vou corrigir essas questões e otimizar o código para que ele funcione corretamente.
 
 Aqui está a versão corrigida:
 
@@ -277,3 +277,4 @@ def main():
     with st.container():
         st.markdown("""
         <div style="background-color: rgba(245, 184, 65, 0.15); padding: 15px; border-radius: 8px; margin: 15px 0; border: 1px solid rgba(245, 184, 65, 0.3); box-shadow: 0 2px 8px rgba(0, 0, 0, 0.
+""", unsafe_allow_html=True)
