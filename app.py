@@ -357,27 +357,12 @@ def main():
                 # Lista de batalhas
                 st.subheader("Selecione uma batalha para ver detalhes")
 
-                for idx, battle in recent_battles.iterrows():
-                    col1, col2, col3, col4, col5 = st.columns([3, 1, 1, 1, 1])
+                for battle in battles:
+    with st.expander(f"🛡️ Batalha {battle['id']} - {battle['date']}"):
+        st.write(f"🔹 Guilda A: {battle['guild_a']} vs. Guilda B: {battle['guild_b']}")
+        st.write(f"🏆 Vencedor: {battle['winner']}")
+        st.write(f"🔥 Dano Total: {battle['total_damage']}")
 
-                    with col1:
-                        st.write(f"**Batalha #{battle['battle_id']}**")
-                        st.caption(f"{battle['time'].strftime('%d/%m/%Y %H:%M')}")
-
-                    with col2:
-                        st.write(f"Kills: {battle['kills']}")
-
-                    with col3:
-                        st.write(f"Mortes: {battle['deaths']}")
-
-                    with col4:
-                        kd = battle['kills'] / max(1, battle['deaths'])
-                        st.write(f"K/D: {kd:.2f}")
-
-                    with col5:
-                        if st.button("Detalhes", key=f"btn_{battle['battle_id']}"):
-                            st.session_state['selected_battle'] = battle
-                            st.rerun()
 
                     st.divider()
 
