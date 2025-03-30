@@ -27,12 +27,21 @@ ALLIANCE_NAME = "BAHlA"
 MIN_PLAYERS = 20
 
 # Configurações da página
-st.set_page_config(
-    page_title=f"Relatório de Batalhas - {GUILD_NAME}",
-    page_icon="⚔️",
-    layout="wide",
-    initial_sidebar_state="collapsed"
-)
+import streamlit as st
+
+def main():
+    # Usando a sidebar do Streamlit
+    with st.sidebar:
+        # Adicionar widgets ou outros elementos na sidebar
+        st.header("Minha Sidebar")
+        st.selectbox("Escolha uma opção", ["Opção 1", "Opção 2"])
+
+    # Código principal da aplicação
+    st.title("Aplicação Streamlit")
+
+if __name__ == "__main__":
+    main()
+
 
 # Função para configurar o agendador de tarefas
 def setup_scheduler():
